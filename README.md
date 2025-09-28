@@ -18,7 +18,7 @@ AIFFEL_quest_rs
 .  .
 .  .
 .  .
-│  └─Ex07
+│  └─Ex05
 │       ├─.ipynb
 │       └─README.md
 └─GoingDeeper
@@ -28,7 +28,7 @@ AIFFEL_quest_rs
      . 
      . 
      . 
-     └─GD18
+     └─GD09
           ├─.ipynb
           └─README.md
 ```
