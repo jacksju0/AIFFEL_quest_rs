@@ -18,9 +18,6 @@ AIFFEL_quest_rs
 .  .
 .  .
 .  .
-
-:
-i
 │  └─Ex07
 │       ├─.ipynb
 │       └─README.md
