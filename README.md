@@ -18,7 +18,10 @@ AIFFEL_quest_rs
 .  .
 .  .
 .  .
-│  └─Ex05
+
+:
+i
+│  └─Ex07
 │       ├─.ipynb
 │       └─README.md
 └─GoingDeeper
